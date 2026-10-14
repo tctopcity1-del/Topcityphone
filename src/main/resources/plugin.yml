@@ -1,0 +1,7 @@
+
+name: TopCityPhone
+version: 1.0.0
+main: com.topcity.phone.TopCityPhone
+api-version: '26.2'
+author: TopCity
+description: Top City RP Smartphone
