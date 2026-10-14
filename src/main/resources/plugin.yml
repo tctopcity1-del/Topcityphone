@@ -5,3 +5,8 @@ main: com.topcity.phone.TopCityPhone
 api-version: '26.2'
 author: TopCity
 description: Top City RP Smartphone
+
+commands:
+  phone:
+    description: Get your Top City phone
+    usage: /phone
